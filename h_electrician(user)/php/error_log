@@ -1,0 +1,72 @@
+[17-Nov-2019 12:20:28 Asia/Kuala_Lumpur] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'h_electricianuser'@'localhost' (using password: YES) in /home2/hireelec/public_html/h_electrician(user)/php/dbconnect.php on line 6
+[17-Nov-2019 12:20:33 Asia/Kuala_Lumpur] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'h_electricianuser'@'localhost' (using password: YES) in /home2/hireelec/public_html/h_electrician(user)/php/dbconnect.php on line 6
+[17-Nov-2019 12:20:33 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/hireelec/public_html/h_electrician(user)/php/register_user.php on line 11
+[17-Nov-2019 17:13:10 Asia/Kuala_Lumpur] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'h_electricianuser'@'localhost' (using password: YES) in /home2/hireelec/public_html/h_electrician(user)/php/dbconnect.php on line 6
+[17-Nov-2019 17:13:11 Asia/Kuala_Lumpur] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'h_electricianuser'@'localhost' (using password: YES) in /home2/hireelec/public_html/h_electrician(user)/php/dbconnect.php on line 6
+[17-Nov-2019 17:13:11 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/hireelec/public_html/h_electrician(user)/php/register_user.php on line 11
+[20-Nov-2019 14:27:11 Asia/Kuala_Lumpur] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'h_electricianuser'@'localhost' (using password: YES) in /home2/hireelec/public_html/h_electrician(user)/php/dbconnect.php on line 6
+[20-Nov-2019 14:27:11 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/hireelec/public_html/h_electrician(user)/php/register_user.php on line 12
+[22-Nov-2019 21:08:27 Asia/Kuala_Lumpur] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'h_electricianuser'@'localhost' (using password: YES) in /home2/hireelec/public_html/h_electrician(user)/php/dbconnect.php on line 6
+[22-Nov-2019 21:08:35 Asia/Kuala_Lumpur] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'h_electricianuser'@'localhost' (using password: YES) in /home2/hireelec/public_html/h_electrician(user)/php/dbconnect.php on line 6
+[22-Nov-2019 21:08:35 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/hireelec/public_html/h_electrician(user)/php/register_user.php on line 14
+[23-Nov-2019 00:13:51 Asia/Kuala_Lumpur] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'h_electricianuser'@'localhost' (using password: YES) in /home2/hireelec/public_html/h_electrician(user)/php/dbconnect.php on line 6
+[23-Nov-2019 00:13:51 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/hireelec/public_html/h_electrician(user)/php/register_user.php on line 14
+[23-Nov-2019 00:21:12 Asia/Kuala_Lumpur] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'h_electricianuser'@'localhost' (using password: YES) in /home2/hireelec/public_html/h_electrician(user)/php/dbconnect.php on line 6
+[23-Nov-2019 00:21:12 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/hireelec/public_html/h_electrician(user)/php/register_user.php on line 14
+[24-Nov-2019 00:21:03 Asia/Kuala_Lumpur] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'h_electricianuser'@'localhost' (using password: YES) in /home2/hireelec/public_html/h_electrician(user)/php/dbconnect.php on line 6
+[24-Nov-2019 00:21:03 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/hireelec/public_html/h_electrician(user)/php/register_user.php on line 14
+[24-Nov-2019 00:56:19 Asia/Kuala_Lumpur] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'h_electricianuser'@'localhost' (using password: YES) in /home2/hireelec/public_html/h_electrician(user)/php/dbconnect.php on line 6
+[24-Nov-2019 00:56:19 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/hireelec/public_html/h_electrician(user)/php/register_user.php on line 14
+[24-Nov-2019 00:57:16 Asia/Kuala_Lumpur] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'h_electricianuser'@'localhost' (using password: YES) in /home2/hireelec/public_html/h_electrician(user)/php/dbconnect.php on line 6
+[24-Nov-2019 00:57:16 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/hireelec/public_html/h_electrician(user)/php/register_user.php on line 14
+[24-Nov-2019 00:59:34 Asia/Kuala_Lumpur] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'h_electricianuser'@'localhost' (using password: YES) in /home2/hireelec/public_html/h_electrician(user)/php/dbconnect.php on line 6
+[24-Nov-2019 00:59:34 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/hireelec/public_html/h_electrician(user)/php/register_user.php on line 14
+[24-Nov-2019 01:09:10 Asia/Kuala_Lumpur] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'h_electricianuser'@'localhost' (using password: YES) in /home2/hireelec/public_html/h_electrician(user)/php/dbconnect.php on line 6
+[24-Nov-2019 01:09:10 Asia/Kuala_Lumpur] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/hireelec/public_html/h_electrician(user)/php/register_user.php on line 14
+[26-Nov-2019 23:07:17 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[26-Nov-2019 23:07:20 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[26-Nov-2019 23:07:25 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[27-Nov-2019 04:18:56 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[27-Nov-2019 15:01:22 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[27-Nov-2019 15:03:50 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[27-Nov-2019 15:06:30 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[27-Nov-2019 15:17:29 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[27-Nov-2019 22:37:05 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[27-Nov-2019 23:45:29 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[27-Nov-2019 23:48:41 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 00:23:17 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 00:23:50 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 01:41:32 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 02:42:09 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 03:17:36 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 03:22:00 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 03:38:41 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 04:04:42 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 04:09:47 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 04:21:38 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 04:23:52 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 04:29:37 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 04:42:46 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 04:42:47 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 04:49:06 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 04:54:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 05:39:54 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 06:18:06 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 06:21:30 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 16:26:01 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 16:26:01 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 16:44:41 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 16:57:22 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 17:06:20 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 17:06:51 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 17:07:18 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 17:08:13 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 17:08:26 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 17:20:51 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 17:20:56 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 17:23:29 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 17:28:04 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 17:47:48 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 17:49:27 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 17:54:58 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
+[28-Nov-2019 17:55:11 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected end of file in /home2/hireelec/public_html/h_electrician(user)/php/load_jobs.php on line 31
